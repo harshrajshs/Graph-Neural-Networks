@@ -20,15 +20,15 @@ The methodology consists of the following steps:
    
 2. **PCA Dimensionality Reduction:** Reduces the dimensionality of the data to 50 components while preserving key features.
 
-   ![PCA Dimensionality Reduction](images/pca.png)
+   ![PCA Dimensionality Reduction](images/fig3.png)
 
 3. **K-Means Clustering:** The K-Means algorithm clusters the dataset into 10 clusters based on the features.
    
-   ![K-Means Clustering](images/kmeans.png)
+   ![K-Means Clustering](images/fig4.png)
 
 4. **Neural Network Classification:** A neural network is trained using the cluster labels and feature matrix to predict labels for new data points.
    
-   ![Neural Network Model](images/nn_model.png)
+   ![Neural Network Model](images/fig2.png)
 
 ## Model Description
 
