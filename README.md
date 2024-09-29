@@ -56,7 +56,7 @@ We also encountered overfitting during neural network training, attributed to po
 
 We analyzed the distribution of nodes across different clusters after clustering the data:
 
-![Cluster Analysis](images/cluster_analysis.png)
+![Cluster Analysis](images/cluster_count_plot.jpg)
 
 ## Source Code
 
