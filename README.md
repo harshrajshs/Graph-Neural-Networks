@@ -1,9 +1,5 @@
 # Data Mining Project
 
-**Authors:**  
-- Aditya Suryawanshi (210150004)  
-- Harsh Raj (210150011)
-
 ## Introduction
 
 In this project, we aim to apply clustering techniques on a dataset to identify underlying patterns. We then use a neural network model to predict cluster labels for new data points. The primary objectives are:
